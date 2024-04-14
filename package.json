@@ -1,16 +1,16 @@
 {
-  "name": "@infra-blocks/lib-template",
-  "version": "0.0.3",
-  "description": "This repository is a template to generate repositories meant to hold the source code of NPM packages written in TypeScript.",
+  "name": "@infra-blocks/json",
+  "version": "0.0.0",
+  "description": "JSON related utilities.",
   "keywords": [
-    "template",
-    "typescript",
-    "esm",
-    "cjs"
+    "json",
+    "type",
+    "parse",
+    "stringify"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/infrastructure-blocks/ts-lib-template.git"
+    "url": "https://github.com/infrastructure-blocks/ts-json.git"
   },
   "license": "ISC",
   "author": "",

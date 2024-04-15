@@ -1,16 +1,16 @@
 {
-  "name": "@infra-blocks/lib-template",
-  "version": "0.0.3",
-  "description": "This repository is a template to generate repositories meant to hold the source code of NPM packages written in TypeScript.",
+  "name": "@infra-blocks/json",
+  "version": "0.0.0",
+  "description": "JSON related utilities.",
   "keywords": [
-    "template",
-    "typescript",
-    "esm",
-    "cjs"
+    "json",
+    "type",
+    "parse",
+    "stringify"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/infrastructure-blocks/ts-lib-template.git"
+    "url": "https://github.com/infrastructure-blocks/ts-json.git"
   },
   "license": "ISC",
   "author": "",
@@ -48,6 +48,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-json-format": "^2.0.1",
     "eslint-plugin-prettier": "^4.2.1",
+    "expect-type": "^0.19.0",
     "mocha": "^10.2.0",
     "prettier": "^2.8.8",
     "ts-node": "^10.9.1",

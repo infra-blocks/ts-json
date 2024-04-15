@@ -24,6 +24,10 @@ module.exports = {
         "plugin:@typescript-eslint/recommended",
         "plugin:@typescript-eslint/recommended-requiring-type-checking",
       ],
+      rules: {
+        // Because we are mimicking the native API, which includes the use of any.
+        "@typescript-eslint/no-explicit-any": "off",
+      },
     },
   ],
   env: {

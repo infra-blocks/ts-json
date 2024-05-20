@@ -2,7 +2,7 @@
 [![Build](https://github.com/infra-blocks/ts-json/actions/workflows/build.yml/badge.svg)](https://github.com/infra-blocks/ts-json/actions/workflows/build.yml)
 [![Release](https://github.com/infra-blocks/ts-json/actions/workflows/release.yml/badge.svg)](https://github.com/infra-blocks/ts-json/actions/workflows/release.yml)
 [![Update From Template](https://github.com/infra-blocks/ts-json/actions/workflows/update-from-template.yml/badge.svg)](https://github.com/infra-blocks/ts-json/actions/workflows/update-from-template.yml)
-[![codecov](https://codecov.io/gh/infra-blocks/ts-json/graph/badge.svg?token=vyI1qM1EZg)](https://codecov.io/gh/infra-blocks/ts-json)
+[![codecov](https://codecov.io/gh/infra-blocks/ts-json/graph/badge.svg?token=AFFE6KDTDB)](https://codecov.io/gh/infra-blocks/ts-json)
 
 JSON related utilities package. It offers thin wrappers over `JSON.parse` and `JSON.stringifiy` and convenient types.
 
